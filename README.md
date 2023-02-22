@@ -1,0 +1,1 @@
+Projeto para fins de estudo e aplicação de conteúdo aprendido no curso de JavaScript da B7Web.
